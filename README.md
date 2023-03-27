@@ -5,7 +5,7 @@
 - Applying weight sharing
 - Multi-layer perceptrons
 
-$\rightarrow$ Solve it twice: 
+Build it twice: 
 
 - from scratch using numpy (Implementing forward propagation and backpropagation manually)    
 - using PyTorch
