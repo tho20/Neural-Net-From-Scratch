@@ -9,3 +9,5 @@ Build it twice:
 
 - from scratch using numpy (Implementing forward propagation and backpropagation manually)    
 - using PyTorch
+
+More information in jupyter notebook.
