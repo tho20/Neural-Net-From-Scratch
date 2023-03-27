@@ -1,2 +1,11 @@
 # Neural-Net-From-Scratch
-Building a Neural Network from scratch using only Numpy, then build the same model with Pytorch. The goal is to predict the next word in a sentence given the previous three.
+
+### Objective: Build a Neural Network that predicts the next word in a sentence given the previous 3 
+
+- Applying weight sharing
+- Multi-layer perceptrons
+
+--> Solve it twice: 
+
+- from scratch using numpy (Implementing forward propagation and backpropagation manually)    
+- using PyTorch
